@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251988069888",
+    "project_id": "kmagate---incremental-game",
+    "storage_bucket": "kmagate---incremental-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251988069888:android:b8408ee6385a21745312e5",
+        "android_client_info": {
+          "package_name": "com.Cuitsu.Click_Coin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251988069888-1qqtmcjcsc985utna1f58hjusvno85vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-N2gHLIYTXdbPVzX_dJgGs_qa1lSuaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251988069888-1qqtmcjcsc985utna1f58hjusvno85vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

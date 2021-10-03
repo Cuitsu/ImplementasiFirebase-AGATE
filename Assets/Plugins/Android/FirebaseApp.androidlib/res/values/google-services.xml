@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">251988069888</string>
+  <string name="google_storage_bucket" translatable="false">kmagate---incremental-game.appspot.com</string>
+  <string name="project_id" translatable="false">kmagate---incremental-game</string>
+  <string name="google_api_key" translatable="false">AIzaSyAg-N2gHLIYTXdbPVzX_dJgGs_qa1lSuaE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAg-N2gHLIYTXdbPVzX_dJgGs_qa1lSuaE</string>
+  <string name="google_app_id" translatable="false">1:251988069888:android:b8408ee6385a21745312e5</string>
+  <string name="default_web_client_id" translatable="false">251988069888-1qqtmcjcsc985utna1f58hjusvno85vb.apps.googleusercontent.com</string>
+</resources>
